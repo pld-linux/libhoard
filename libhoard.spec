@@ -6,6 +6,7 @@ Release:	1
 License:	LGPL with special exception
 Group:		Libraries
 Source0:	http://www.cs.umass.edu/~emery/software/libhoard-2.1.2d.tar.gz
+# Source0-md5:	fd0247f3ec28f507e2eb6b437263fcfe
 URL:		http://www.hoard.org/
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
