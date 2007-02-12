@@ -1,5 +1,5 @@
 Summary:	The Hoard Multiprocessor Memory Allocator
-Summary(pl):	Hoard - wieloprocesorowa biblioteka zajmuj±ca siê przydzielaniem pamiêci
+Summary(pl.UTF-8):   Hoard - wieloprocesorowa biblioteka zajmujÄ…ca siÄ™ przydzielaniem pamiÄ™ci
 Name:		libhoard
 Version:	2.1.2d
 Release:	1
@@ -15,10 +15,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The Hoard memory allocator is a fast, scalable, and memory-efficient
 memory allocator for shared-memory multiprocessors.
 
-%description -l pl
-Hoard to szybka, skalowalna, wydajnie gospodaruj±ca pamiêci±
-biblioteka przydzielaj±ca pamiêæ dla maszyn wieloprocesorowych ze
-wspóln± pamiêci±.
+%description -l pl.UTF-8
+Hoard to szybka, skalowalna, wydajnie gospodarujÄ…ca pamiÄ™ciÄ…
+biblioteka przydzielajÄ…ca pamiÄ™Ä‡ dla maszyn wieloprocesorowych ze
+wspÃ³lnÄ… pamiÄ™ciÄ….
 
 %prep
 %setup -q
