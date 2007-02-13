@@ -1,5 +1,5 @@
 Summary:	The Hoard Multiprocessor Memory Allocator
-Summary(pl.UTF-8):   Hoard - wieloprocesorowa biblioteka zajmująca się przydzielaniem pamięci
+Summary(pl.UTF-8):	Hoard - wieloprocesorowa biblioteka zajmująca się przydzielaniem pamięci
 Name:		libhoard
 Version:	2.1.2d
 Release:	1
